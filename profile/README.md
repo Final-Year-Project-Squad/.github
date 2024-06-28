@@ -21,6 +21,13 @@ Aat Gallery is an online platform that empowers artists to showcase their artwor
   - Admins can manage artists, artworks, and user transactions.
   - Transaction history and analytics are available.
 
+## Team Members
+
+Meet our team of enthusiastic students:
+- [@Hirvita6](https://github.com/Hirvita6)
+- [@Nishitpatels](https://github.com/Nishitpatels)
+- [@PrabhatKambaliya](https://github.com/PrabhatKambaliya)
+
 ## Getting Started
 
 1. Clone the repository: `git clone https://github.com/yourusername/AatGallery.git`
