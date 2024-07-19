@@ -1,6 +1,6 @@
 # Aat Gallery Project - Artwork Showcase and Sales Platform
 
-!Aat Gallery Logo
+<img src="logo_name1.png" alt="Logo">
 
 ## Overview
 
