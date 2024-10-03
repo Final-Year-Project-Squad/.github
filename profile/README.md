@@ -30,7 +30,7 @@ Meet our team of enthusiastic students:
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/AatGallery.git`
+1. Clone the repository: `git clone https://github.com/Final-Year-Project-Squad/Art_Gallery_.git`
 2. Set up your development environment (ASP.NET, SQL Server, etc.).
 3. Run migrations to create the database schema: `dotnet ef database update`
 4. Launch the application: `dotnet run`
